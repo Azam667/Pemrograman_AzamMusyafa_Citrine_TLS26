@@ -35,10 +35,10 @@ Setiap astronaut memiliki nomor unik dari 1 sampai N, dan proses eliminasi mengg
 Problem ini merupakan sistem penyandian pesan berdasarkan nilai huruf dalam alfabet.
 Setiap huruf memiliki nilai:
 
-A = 1
-B = 2
-C = 3
-...
+A = 1, 
+B = 2, 
+C = 3, 
+..., 
 Z = 26
 
 ### Aturan penyandian:
